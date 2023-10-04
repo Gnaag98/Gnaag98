@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying Master of Science in Engineering Physics at Umeå University in Sweeden.
+- 🌱 I like to reinvent the wheel to learn how to program. Currently I'm sporadically writing a Smart Home Hub on a Raspberry Pi in C++ to interface with 433 Mhz devices, just so see if I can.
+
 <!--
 **Gnaag98/Gnaag98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
